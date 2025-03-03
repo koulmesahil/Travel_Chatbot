@@ -6,7 +6,6 @@ import os
 from openai import OpenAI
 
 from travelbot import travelbot_ui
-from meditationbot import meditationbot_ui
 from customersupportbot import customersupportbot_ui  # Add this import
 
 
